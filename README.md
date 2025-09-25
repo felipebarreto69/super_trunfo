@@ -1,6 +1,6 @@
 # Super Trunfo em C
 
-Programa desenvolvido em C para simular um jogo de Super Trunfo.
+Programa simples em linguagem C para simular um jogo de Super Trunfo, comparando informações de duas cidades.
 
 ## Como compilar e executar
 
