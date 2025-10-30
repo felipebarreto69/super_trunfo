@@ -21,8 +21,3 @@ No terminal do VS Code ou Prompt de Comando:
 ```bash
 gcc super_trunfo.c -o super_trunfo.exe
 super_trunfo.exe
-
-
-
-### 👨‍💻 Autor
-Desenvolvido por **Felipe Barreto Silva** como parte do projeto acadêmico do curso de **Análise e Desenvolvimento de Sistemas**.
