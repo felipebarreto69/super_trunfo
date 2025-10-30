@@ -1,13 +1,14 @@
 # Super Trunfo em C - Comparação de Cartas 🃏
 
-Projeto desenvolvido em linguagem C como parte do desafio **“Comparando Cartas do Super Trunfo”**.  
-O programa cadastra duas cartas com informações sobre cidades (estado, código, nome, população, área, PIB e pontos turísticos), calcula automaticamente a **densidade populacional** e o **PIB per capita**, e realiza a **comparação entre as cartas** com base em um atributo definido no código.
+Projeto desenvolvido em linguagem C como parte dos desafios **“Comparando Cartas do Super Trunfo”** (níveis novato e aventureiro).  
+O programa cadastra duas cartas com informações sobre cidades, calcula automaticamente **densidade populacional** e **PIB per capita**, e permite **comparar as cartas interativamente** com base em um atributo escolhido pelo usuário.
 
 ### ⚙️ Funcionalidades
-- Cadastro de duas cartas com dados completos.  
-- Cálculo automático da densidade populacional e PIB per capita.  
-- Comparação entre as cartas usando estruturas condicionais (`if` e `else`).  
-- Exibição do resultado da comparação indicando qual carta venceu.
+- Cadastro de duas cartas com dados completos (estado, código, cidade, população, área, PIB, pontos turísticos).  
+- Cálculo automático da **densidade populacional** e do **PIB per capita**.  
+- **Menu interativo** usando `switch` para escolha do atributo de comparação.  
+- Comparação entre atributos utilizando estruturas condicionais (`if` e `else if`).  
+- Exibição clara do resultado da comparação, indicando qual carta venceu ou se houve empate.
 
 ### 🧩 Tecnologias
 - Linguagem C  
