@@ -19,5 +19,7 @@ O programa cadastra duas cartas com informações sobre cidades, calcula automat
 No terminal do VS Code ou Prompt de Comando:
 
 ```bash
-gcc super_trunfo.c -o super_trunfo.exe
-super_trunfo.exe
+gcc super_trunfo.c -o super_trunfo
+./super_trunfo
+
+
